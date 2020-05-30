@@ -1,0 +1,41 @@
+h3 {
+	color:red;
+	text-align: center;
+   }
+p {
+	color: darkmagenta;
+}
+.classname{
+	font-style: italic;
+}
+div.mydiv{
+		border: 3px dotted red;
+		font-family: Arial, sans-serif;
+		font-size: 15px;
+		font-weight:bold;
+		background-color: teal;
+		width: 90px;
+		height: 50px;
+		margin: 40px;
+		padding: 20px;
+}
+#herdiv{
+		background-color: yellow;
+		width: 100px;
+		height: 50px;
+		margin: 40px;
+		padding: 20px;
+}
+table{
+	border: 2px solid blue;
+	border-collapse: collapse;
+	width: 50%;
+}
+th,td{
+	border: 1px solid black;
+	padding:5px;
+	text-align: center;
+}
+th{
+	background-color: lightgray;
+}
